@@ -5,6 +5,8 @@ import java.util.HashMap;
 import java.util.Scanner;
 import java.io.IOException;
 
+//  Azonbank version 2.0 written with functional programming paradigm
+
 public class Main {
     public static void main(String[] args) throws IOException {
         Scanner scanner = new Scanner(System.in);
